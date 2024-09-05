@@ -1,4 +1,4 @@
 .idea/
 .vscode
 .DS_Store
-/vshaurme/vshaurme/*.sqlite3 
+/vshaurme/db.sqlite3 
